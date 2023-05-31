@@ -28,21 +28,21 @@ header ul {
   display: flex;
   justify-content: flex-end;
 }
-
 ul {
+
   list-style-type: none;
   text-decoration: none;
   margin: 0;
   padding: 0;
 }
 
+
 header li {
   margin-left: 20px;
-}
-
-li {
   text-align: right;
 }
+
+
  header a {
   text-decoration: none;
   color: rgb(255, 251, 0);
